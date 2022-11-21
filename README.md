@@ -12,3 +12,4 @@ The Pareto principle states that for many outcomes, roughly 80% of consequences 
 4) It seems like top 10 titles produce 20% of views, and titles that have small % produce 80% of views.
 Titles with small % produce 80% not just individuals, but whole small %
 titles.
+
