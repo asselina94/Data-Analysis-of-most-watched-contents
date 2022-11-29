@@ -13,5 +13,5 @@ The Pareto principle states that for many outcomes, roughly 80% of consequences 
 Titles with small % produce 80% not just individuals, but whole small %
 titles.
 So I calculated % of titles that are more than >1% out of all titles. count_big_titles = 2.17 %
-count_small_titles = 97.83%
+count_small_titles = 97.83% 
 
